@@ -1,0 +1,16 @@
+{
+  "name": "weazelnews_bot",
+  "version": "2.4.23",
+  "description": "Stream the latest news from the city directly to discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nozdormv#9523",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
